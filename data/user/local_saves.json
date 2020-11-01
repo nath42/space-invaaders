@@ -1,0 +1,86 @@
+{
+    "None": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 1429
+    },
+    "None2": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 0
+    },
+    "test": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 94
+    },
+    "nathanael": {
+        "control": {
+            "right": "K_RIGHT",
+            "left": "K_LEFT",
+            "up": "K_UP",
+            "down": "K_DOWN"
+        },
+        "language": "french",
+        "luminosity": 100,
+        "resolution": [
+            1000,
+            600
+        ],
+        "volume": [
+            100,
+            100,
+            100
+        ],
+        "last_vaisseau_chosen": "v1",
+        "highestscore": 9455
+    }
+}
